@@ -1,0 +1,14 @@
+{
+    "content": [
+      {
+        "file": "assets/kuronekosgift/recipes/special_recipes/XX.json",
+        "requireModsLoaded": ["XX"],
+        "requireModsNotLoaded": ["XX"]
+      },
+      {
+        "file": "assets/kuronekosgift/recipes/special_recipes/XX.json",
+        "requireModsLoaded": ["XX"],
+        "requireModsNotLoaded": ["XX"]
+      }
+    ]
+  }

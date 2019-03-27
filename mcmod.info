@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "kuronekosgift",
+    "name": "Kuronekosgift",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "description": "Mod add for my pack.",
+    "authorList": ["luoxingliuli"],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [],
+	"requiredMods": ["Forge", "customstuff4"],
+    "dependencies": ["Forge", "customstuff4"]
+  }
+]

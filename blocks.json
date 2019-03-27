@@ -1,0 +1,45 @@
+{"content": [
+    {
+    "type": "block:simple",
+    "entries": [
+        {
+            "id": "kuronekosgift:hairy_ball_block",
+            "hardness": 50,
+            "resistance:": 6000,
+            "soundType": "metal",
+            "light": 0,
+            "flammability": 0,
+            "fireSpreadSpeed": 0,
+            "isFireSource": false,
+            "isWood": false,
+            "isOpaqueCube": true,
+            "renderLayer": "solid",
+            "harvestTool": "pickaxe",
+            "harvestLevel": 3,
+            "pathNodeType": "blocked",
+            "creativeTab": "kuronekosgift_tab"
+        }
+      ]
+    },
+    {"type": "block:fluid",
+      "entries": [
+        {
+          "id": "imoutojiru",
+          "density": 1000,
+          "temperature": 38,
+          "viscosity": 1000,
+          "flowLength": 8,
+          "isGaseous": false,
+          "canCreateSource":  false,
+          "addUniversalBucket": true,
+          "isOpaqueCube": false,
+          "renderLayer": "translucent",
+          "texStill": "kuronekosgift:blocks/imoutojiru_still",
+          "texFlowing": "kuronekosgift:blocks/imoutojiru_flow",
+          "creativeTab": "kuronekosgift_tab"
+        }
+      ]
+
+    }
+  ]
+}

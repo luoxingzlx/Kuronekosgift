@@ -1,0 +1,24 @@
+{
+	"items": [
+		{
+			"type": "item:simple",
+			"entries": [
+				{
+					"id": "kuronekosgift:coin",
+					"model": "kuronekosgift:coin",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:compress_hairy_ball",
+					"model": "kuronekosgift:compress_hairy_ball",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:hairy_ball_ingot",
+					"model": "kuronekosgift:hairy_ball_ingot",
+					"creativeTab": "kuronekosgift_tab"
+				}
+			]
+		}
+	]
+}

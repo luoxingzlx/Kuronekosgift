@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "kuronekosgift:compress_hairy_ball"
+        }
+    },
+    "result": {
+        "item": "kuronekosgift:hairy_ball_ingot"
+    }
+  }

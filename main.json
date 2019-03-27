@@ -1,0 +1,15 @@
+{
+	"content": [
+		{"file": "items.json"},
+		{"file": "blocks.json"},
+    {
+    	"type": "creativeTab",
+    	"entries": [
+    		{
+    			"id": "kuronekosgift_tab",
+    			"icon": "kuronekosgift:coin"
+    		}
+    	]
+    }
+  ]
+}

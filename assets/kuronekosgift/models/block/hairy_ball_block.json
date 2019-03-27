@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "kuronekosgift:blocks/hairy_ball_block"
+    }
+}
