@@ -1,0 +1,5 @@
+*.json linguist-language=java
+*.class linguist-language=java
+*.bat linguist-language=java
+*.exe linguist-language=java
+*.txt linguist-language=java
