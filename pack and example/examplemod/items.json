@@ -1,0 +1,203 @@
+{
+  "items": [
+    {
+      "type": "item:simple",
+      "entries": [
+        {
+          "id": "someitem",
+          "subtypes": [0, 1],
+          "model": {
+            "0": "cs4examplemod:mobile_sensor_0",
+            "1": "cs4examplemod:mobile_sensor_1"
+          },
+          "burnTime": {
+            "0": 100,
+            "1": 50
+          },
+          "creativeTab": {
+            "0": "tools",
+            "1": "redstone"
+          }
+        },
+        {
+          "id": "someitem1",
+          "model": "cs4examplemod:mobile_sensor_0",
+          "creativeTab": "examplemod"
+        },
+        {
+          "id": "itemdamageable",
+          "model": "cs4examplemod:mobile_sensor_0",
+          "creativeTab": "examplemod",
+          "maxDamage": 30
+        }
+      ]
+    },
+    {
+      "type": "item:axe",
+      "entries": [
+        {
+          "id": "someaxe",
+          "creativeTab": "examplemod",
+          "attackSpeed": 7.35,
+          "material": "diamond",
+          "model": "minecraft:diamond_axe"
+        }
+      ]
+    },
+    {
+      "type": "item:pickaxe",
+      "entries": [
+        {
+          "id": "somepickaxe",
+          "creativeTab": "examplemod",
+          "attackSpeed": 7.35,
+          "material": "diamond",
+          "model": "minecraft:diamond_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "item:shovel",
+      "entries": [
+        {
+          "id": "someshovel",
+          "creativeTab": "examplemod",
+          "attackSpeed": 7.35,
+          "material": "diamond",
+          "model": "minecraft:diamond_shovel"
+        }
+      ]
+    },
+    {
+      "type": "item:food",
+      "entries": [
+        {
+          "id": "somefood",
+          "model": "minecraft:apple",
+          "subtypes": [0, 1],
+          "creativeTab": "examplemod",
+          "healAmount": {
+            "0": 2,
+            "1": 4
+          },
+          "saturation": 1.0,
+          "alwaysEdible": {
+            "0": false,
+            "1": true
+          },
+          "potionEffect": {
+            "1": {
+              "id": "minecraft:speed",
+              "duration": 120
+            }
+          },
+          "potionEffectProbability": 0.5,
+          "result": {
+            "1": "minecraft:glass_bottle"
+          },
+          "useAction": {
+            "1": "drink"
+          },
+          "tint": {
+            "0": "ffaa0000",
+            "1": "ff00aa00"
+          }
+        }
+      ]
+    },
+    {
+      "type": "item:fluidContainer",
+      "entries": [
+        {
+          "id": "fluid_container",
+          "creativeTab": "examplemod",
+          "model": "cs4examplemod:fluid_container"
+        }
+      ]
+    },
+    {
+      "type": "item:shears",
+      "entries": [
+        {
+          "id": "shears",
+          "creativeTab": "examplemod",
+          "model": "minecraft:shears",
+          "durability": 1000
+        }
+      ]
+    },
+    {
+      "type": "item:seeds",
+      "entries": [
+        {
+          "id": "seeds",
+          "creativeTab": "examplemod",
+          "model": "minecraft:wheat_seeds",
+          "plant": {"block": "cs4examplemod:crops"}
+        }
+      ]
+    },
+    {
+      "type": "armorMaterial",
+      "entries": [
+        {
+          "id": "cs4gold",
+          "textureName": "gold",
+          "durability": 40,
+          "enchantability": 25,
+          "armorHelmet": 3,
+          "armorChest": 9,
+          "armorLegs": 6,
+          "armorBoots": 3,
+          "equipSound": "entity.generic.explode",
+          "toughness": 2.5,
+          "repairItem": "minecraft:gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "item:helmet",
+      "entries": [
+        {
+          "id": "helmet",
+          "material": "cs4gold",
+          "creativeTab": "examplemod",
+          "model": "minecraft:golden_helmet"
+        }
+      ]
+    },
+    {
+      "type": "item:chest",
+      "entries": [
+        {
+          "id": "chestplate",
+          "material": "cs4gold",
+          "creativeTab": "examplemod",
+          "model": "minecraft:golden_chestplate"
+        }
+      ]
+    },
+    {
+      "type": "item:legs",
+      "entries": [
+        {
+          "id": "legs",
+          "material": "cs4gold",
+          "creativeTab": "examplemod",
+          "model": "minecraft:golden_leggings"
+        }
+      ]
+    },
+    {
+      "type": "item:boots",
+      "entries": [
+        {
+          "id": "boots",
+          "material": "cs4gold",
+          "creativeTab": "examplemod",
+          "model": "minecraft:golden_boots"
+        }
+      ]
+    }
+  ]
+}

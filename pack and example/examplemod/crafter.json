@@ -1,0 +1,149 @@
+{
+  "crafter": [
+    {
+      "type": "block:simple",
+      "entries": [
+        {
+          "id": "crafter",
+          "creativeTab": "examplemod",
+          "itemModel": "cs4examplemod:sensor_iron",
+          "tileEntity": "cs4examplemod:crafter",
+          "gui": "cs4examplemod:crafter"
+        }
+      ]
+    },
+    {
+      "type": "tileentity:simple",
+      "entries": [
+        {
+          "id": "crafter",
+          "modules": [
+            {
+              "type": "crafting",
+              "name": "crafting",
+              "recipeList": "cs4examplemod:crafter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gui:container",
+      "entries": [
+        {
+          "id": "crafter",
+          "bg": "cs4examplemod:textures/gui/container/crafter.png",
+          "slots": [
+            {
+              "name": "crafting",
+              "rows": 3,
+              "columns": 3,
+              "x": 30,
+              "y": 17
+            },
+            {
+              "name": "crafting",
+              "rows": 1,
+              "columns": 1,
+              "firstSlot": 9,
+              "x": 124,
+              "y": 35
+            },
+            {
+              "name": "player",
+              "firstSlot": 9,
+              "rows": 3,
+              "columns": 9,
+              "x": 8,
+              "y": 84
+            },
+            {
+              "name": "player",
+              "rows": 1,
+              "columns": 9,
+              "x": 8,
+              "y": 142
+            }
+          ],
+          "shiftClickRules": [
+            {
+              "from": [0, 9],
+              "to": [45, 10]
+            }
+          ],
+          "labels": [
+            {
+              "text": "container.crafting",
+              "x": 28,
+              "y": 6
+            },
+            {
+              "text": "container.inventory",
+              "x": 8,
+              "y": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "shapedRecipe",
+      "entries": [
+        {
+          "shape": ["AA", "AA"],
+          "items": {
+            "A": "minecraft:apple"
+          },
+          "result": "minecraft:stone",
+          "recipeList": "cs4examplemod:crafter"
+        }
+      ]
+    },
+    {
+      "type": "shapelessRecipe",
+      "entries": [
+        {
+          "items": [
+            "minecraft:stone@all",
+            "minecraft:coal"
+          ],
+          "result": {
+            "item": "minecraft:obsidian",
+            "nbt": "{display:{Name:\"Some Obsidian\"}}"
+          },
+          "recipeList": "cs4examplemod:crafter"
+        }
+      ]
+    },
+    {
+      "type": "jei:craftingRecipe",
+      "entries": [
+        {
+          "recipeList": "cs4examplemod:crafter",
+          "gui": "cs4examplemod:crafter",
+          "tileEntity": "cs4examplemod:crafter",
+          "bgX": 29,
+          "bgY": 16,
+          "bgWidth": 116,
+          "bgHeight": 54,
+          "icon": "cs4examplemod:crafter",
+          "title": "Crafting Recipes",
+          "recipeAreaX": 88,
+          "recipeAreaY": 32,
+          "recipeAreaWidth": 28,
+          "recipeAreaHeight": 23
+        }
+      ]
+    },
+    {
+      "type": "jei:description",
+      "entries": [
+        {
+          "items": ["cs4examplemod:crafter"],
+          "desc": ["cs4examplemod.crafter.jei.desc"]
+        }
+      ]
+    }
+  ]
+}
+
