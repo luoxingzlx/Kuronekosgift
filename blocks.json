@@ -20,26 +20,6 @@
             "creativeTab": "kuronekosgift_tab"
         }
       ]
-    },
-    {"type": "block:fluid",
-      "entries": [
-        {
-          "id": "imoutojiru",
-          "density": 1000,
-          "temperature": 38,
-          "viscosity": 1000,
-          "flowLength": 8,
-          "isGaseous": false,
-          "canCreateSource":  false,
-          "addUniversalBucket": true,
-          "isOpaqueCube": false,
-          "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/imoutojiru_still",
-          "texFlowing": "kuronekosgift:blocks/imoutojiru_flow",
-          "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
     }
   ]
 }

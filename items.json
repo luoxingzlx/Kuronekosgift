@@ -14,6 +14,51 @@
 					"creativeTab": "kuronekosgift_tab"
 				},
 				{
+					"id": "kuronekosgift:desulfurizer",
+					"model": "kuronekosgift:desulfurizer",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:catalyst",
+					"model": "kuronekosgift:catalyst",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:polyethylene_dust_containing_impurities",
+					"model": "kuronekosgift:polyethylene_dust_containing_impurities",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:polyethylene_dust",
+					"model": "kuronekosgift:polyethylene_dust",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:polyethylene_nugget",
+					"model": "kuronekosgift:polyethylene_nugget",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:ammonium_diuranate",
+					"model": "kuronekosgift:ammonium_diuranate",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:uranium_dioxide",
+					"model": "kuronekosgift:uranium_dioxide",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:uranium_tetrafluoride",
+					"model": "kuronekosgift:uranium_tetrafluoride",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
+					"id": "kuronekosgift:uranium_hexafluoride",
+					"model": "kuronekosgift:uranium_hexafluoride",
+					"creativeTab": "kuronekosgift_tab"
+				},
+				{
 					"id": "kuronekosgift:hairy_ball_ingot",
 					"model": "kuronekosgift:hairy_ball_ingot",
 					"creativeTab": "kuronekosgift_tab"

@@ -2,9 +2,55 @@ itemGroup.kuronekosgift_tab=Kuronekos Gift
 item.kuronekosgift.kuronekosgift:coin.name=Rune coin
 item.kuronekosgift.kuronekosgift:compress_hairy_ball.name=Compress Hairy Ball
 item.kuronekosgift.kuronekosgift:hairy_ball_ingot.name=Hairy Ball Ingot
+item.kuronekosgift.kuronekosgift:desulfurizer.name=Desulfurizer
+item.kuronekosgift.kuronekosgift:catalyst.name=Catalyst
+item.kuronekosgift.kuronekosgift:polyethylene_dust_containing_impurities.name=Polyethylene Dust Containing Impurities
+item.kuronekosgift.kuronekosgift:polyethylene_dust.name=Polyethylene Dust
+item.kuronekosgift.kuronekosgift:polyethylene_nugget.name=Polyethylene Nugget
+item.kuronekosgift.kuronekosgift:ammonium_diuranate.name=Ammonium Diuranate
+item.kuronekosgift.kuronekosgift:uranium_dioxide.name=Uranium Dioxide
+item.kuronekosgift.kuronekosgift:uranium_tetrafluoride.name=Uranium Tetrafluoride
+item.kuronekosgift.kuronekosgift:uranium_hexafluoride.name=Uranium Hexafluoride
 
 
 tile.kuronekosgift.kuronekosgift:hairy_ball_block.name=Hairy Ball Block
 
 
-fluid.imoutojiru=Imouto Jirufluid
+fluid.empowered_pink_slime=Empowered Pink Slime
+fluid.demulsifier=Demulsifier
+fluid.demulsified_crude_oil=Demulsified Crude oil
+fluid.low_chloride_water=Low Chloride Water
+fluid.primary_demineralized_crude_oil=Primary Demineralized Crude oil
+fluid.desalted_crude_oil=Desalted Crude Cil
+fluid.desulfurized_crude_oil=Desulfurized crude Cil
+fluid.desulfurized_crude_oil_hot=Desulfurized Crude Cil (hot)
+fluid.tower_oil=Tower Cil
+fluid.vacuum_distillate_oil=Vacuum Distillate Oil
+fluid.lightly_deasphalted_oil=Lightly Deasphalted Oil
+fluid.hydrogenated_heavy_distillate=Hydrogenated Heavy Distillate
+fluid.hydrogenated_heavy_distillate_oil_hot=Hydrogenated Heavy Distillate Oil (hot)
+fluid.hydrocracked_heavy_distillate=Hydrocracked Heavy Distillate
+fluid.naphtha=Naphtha
+fluid.naphtha_hot=Naphtha (hot)
+fluid.hydrocracked_naphtha=Hydrocracked Naphtha
+fluid.pyrolysis_gas_hot=Pyrolysis Gas (hot)
+fluid.pyrolysis_gas=Pyrolysis Gas
+fluid.compressed_cracked_gas_i=Compressed Cracked Gas I
+fluid.compressed_cracked_gas_ii=Compressed Cracked Gas II
+fluid.compressed_cracked_gas_iii=Compressed Cracked Gas III
+fluid.compressed_cracked_gas_iv=Compressed Cracked Gas IV
+fluid.compressed_cracked_gas_v=Compressed Cracked Gas V
+fluid.alkaline_washing_cracked_gas=Alkaline Washing Cracked Gas
+fluid.hydrocracked_gas=Hydrocracked Gas
+fluid.liquefied_cracked_gas=Liquefied Cracked Gas
+fluid.ethane_ethylene_mixture=Ethane Ethylene Mixture
+fluid.ethane=Ethane
+fluid.ethylene=Ethylene
+fluid.mixed_slurry=Mixed Slurry
+fluid.hydrogen_ethylene_mixture=Hydrogen Ethylene Mixture
+fluid.flash_slurry=Flash Slurry
+fluid.molten_polyethylene=Molten Polyethylene
+fluid.uranyl_nitrate=Uranyl Nitrate
+
+
+

@@ -2,6 +2,7 @@
 	"content": [
 		{"file": "items.json"},
 		{"file": "blocks.json"},
+		{"file": "fluid.json"},
     {
     	"type": "creativeTab",
     	"entries": [
