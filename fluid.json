@@ -45,7 +45,7 @@
           "id": "demulsified_crude_oil",
           "density": 1000,
           "temperature": 300,
-          "viscosity": 300,
+          "viscosity": 3000,
           "flowLength": 8,
           "isGaseous": false,
           "canCreateSource":  false,
@@ -222,18 +222,18 @@
     {"type": "block:fluid",
       "entries": [
         {
-          "id": "hydrogenated_heavy_distillate",
+          "id": "hydrogenated_heavy_distillate_oil",
           "density": 1000,
           "temperature": 300,
-          "viscosity": 1000,
+          "viscosity": 3000,
           "flowLength": 8,
           "isGaseous": false,
           "canCreateSource":  false,
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrogenated_heavy_distillate_still",
-          "texFlowing": "kuronekosgift:blocks/hydrogenated_heavy_distillate_flow",
+          "texStill": "kuronekosgift:blocks/hydrogenated_heavy_distillate_oil_still",
+          "texFlowing": "kuronekosgift:blocks/hydrogenated_heavy_distillate_oil_flow",
           "creativeTab": "kuronekosgift_tab"
         }
       ]
@@ -262,18 +262,18 @@
     {"type": "block:fluid",
       "entries": [
         {
-          "id": "hydrocracked_heavy_distillate",
+          "id": "hydrocracked_heavy_distillate_oil",
           "density": 1000,
           "temperature": 300,
-          "viscosity": 1000,
+          "viscosity": 3000,
           "flowLength": 8,
           "isGaseous": false,
           "canCreateSource":  false,
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrocracked_heavy_distillate_still",
-          "texFlowing": "kuronekosgift:blocks/hydrocracked_heavy_distillate_flow",
+          "texStill": "kuronekosgift:blocks/hydrocracked_heavy_distillate_oil_still",
+          "texFlowing": "kuronekosgift:blocks/hydrocracked_heavy_distillate_oil_flow",
           "creativeTab": "kuronekosgift_tab"
         }
       ]
@@ -384,7 +384,7 @@
         {
           "id": "compressed_cracked_gas_i",
           "density": -80,
-          "temperature": 300,
+          "temperature": 570,
           "viscosity": 1000,
           "flowLength": 8,
           "isGaseous": true,
@@ -664,8 +664,8 @@
         {
           "id": "molten_polyethylene",
           "density": 1000,
-          "temperature": 300,
-          "viscosity": 1000,
+          "temperature": 460,
+          "viscosity": 3000,
           "flowLength": 8,
           "isGaseous": false,
           "canCreateSource":  false,
