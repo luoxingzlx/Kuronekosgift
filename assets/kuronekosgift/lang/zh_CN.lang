@@ -53,3 +53,7 @@ fluid.hydrogen_ethylene_mixture=氢气乙烯混合液
 fluid.flash_slurry=闪蒸浆液
 fluid.molten_polyethylene=熔融聚乙烯
 fluid.uranyl_nitrate=硝酸铀酰
+fluid.formation_fluid=地层流体
+fluid.uranium_hexafluoride_gas=六氟化铀气体
+fluid.uranium_hexafluoride_gas_u235=六氟化铀气体(铀235)
+fluid.uranium_hexafluoride_gas_u238=六氟化铀气体(铀238)

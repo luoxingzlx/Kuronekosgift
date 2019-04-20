@@ -12,15 +12,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/empowered_pink_slime_still",
-          "texFlowing": "kuronekosgift:blocks/empowered_pink_slime_flow",
+          "texStill": "kuronekosgift:fluid/empowered_pink_slime_still",
+          "texFlowing": "kuronekosgift:fluid/empowered_pink_slime_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "demulsifier",
           "density": 1000,
@@ -32,15 +27,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/demulsifier_still",
-          "texFlowing": "kuronekosgift:blocks/demulsifier_flow",
+          "texStill": "kuronekosgift:fluid/demulsifier_still",
+          "texFlowing": "kuronekosgift:fluid/demulsifier_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "demulsified_crude_oil",
           "density": 1000,
@@ -52,15 +42,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/demulsified_crude_oil_still",
-          "texFlowing": "kuronekosgift:blocks/demulsified_crude_oil_flow",
+          "texStill": "kuronekosgift:fluid/demulsified_crude_oil_still",
+          "texFlowing": "kuronekosgift:fluid/demulsified_crude_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "low_chloride_water",
           "density": 1000,
@@ -72,15 +57,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/low_chloride_water_still",
-          "texFlowing": "kuronekosgift:blocks/low_chloride_water_flow",
+          "texStill": "kuronekosgift:fluid/low_chloride_water_still",
+          "texFlowing": "kuronekosgift:fluid/low_chloride_water_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "primary_demineralized_crude_oil",
           "density": 1000,
@@ -92,15 +72,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/primary_demineralized_crude_oil_still",
-          "texFlowing": "kuronekosgift:blocks/primary_demineralized_crude_oil_flow",
+          "texStill": "kuronekosgift:fluid/primary_demineralized_crude_oil_still",
+          "texFlowing": "kuronekosgift:fluid/primary_demineralized_crude_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "desalted_crude_oil",
           "density": 1000,
@@ -112,15 +87,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/desalted_crude_oil_still",
-          "texFlowing": "kuronekosgift:blocks/desalted_crude_oil_flow",
+          "texStill": "kuronekosgift:fluid/desalted_crude_oil_still",
+          "texFlowing": "kuronekosgift:fluid/desalted_crude_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "desulfurized_crude_oil",
           "density": 1000,
@@ -132,15 +102,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/desulfurized_crude_oil_still",
-          "texFlowing": "kuronekosgift:blocks/desulfurized_crude_oil_flow",
+          "texStill": "kuronekosgift:fluid/desulfurized_crude_oil_still",
+          "texFlowing": "kuronekosgift:fluid/desulfurized_crude_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "desulfurized_crude_oil_hot",
           "density": 1000,
@@ -152,15 +117,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/desulfurized_crude_oil_hot_still",
-          "texFlowing": "kuronekosgift:blocks/desulfurized_crude_oil_hot_flow",
+          "texStill": "kuronekosgift:fluid/desulfurized_crude_oil_hot_still",
+          "texFlowing": "kuronekosgift:fluid/desulfurized_crude_oil_hot_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "tower_oil",
           "density": 1000,
@@ -172,15 +132,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/tower_oil_still",
-          "texFlowing": "kuronekosgift:blocks/tower_oil_flow",
+          "texStill": "kuronekosgift:fluid/tower_oil_still",
+          "texFlowing": "kuronekosgift:fluid/tower_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "vacuum_distillate_oil",
           "density": 1000,
@@ -192,15 +147,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/vacuum_distillate_oil_still",
-          "texFlowing": "kuronekosgift:blocks/vacuum_distillate_oil_flow",
+          "texStill": "kuronekosgift:fluid/vacuum_distillate_oil_still",
+          "texFlowing": "kuronekosgift:fluid/vacuum_distillate_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "lightly_deasphalted_oil",
           "density": 1000,
@@ -212,15 +162,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/lightly_deasphalted_oil_still",
-          "texFlowing": "kuronekosgift:blocks/lightly_deasphalted_oil_flow",
+          "texStill": "kuronekosgift:fluid/lightly_deasphalted_oil_still",
+          "texFlowing": "kuronekosgift:fluid/lightly_deasphalted_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "hydrogenated_heavy_distillate_oil",
           "density": 1000,
@@ -232,15 +177,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrogenated_heavy_distillate_oil_still",
-          "texFlowing": "kuronekosgift:blocks/hydrogenated_heavy_distillate_oil_flow",
+          "texStill": "kuronekosgift:fluid/hydrogenated_heavy_distillate_oil_still",
+          "texFlowing": "kuronekosgift:fluid/hydrogenated_heavy_distillate_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "hydrogenated_heavy_distillate_oil_hot",
           "density": 1000,
@@ -252,15 +192,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrogenated_heavy_distillate_oil_hot_still",
-          "texFlowing": "kuronekosgift:blocks/hydrogenated_heavy_distillate_oil_hot_flow",
+          "texStill": "kuronekosgift:fluid/hydrogenated_heavy_distillate_oil_hot_still",
+          "texFlowing": "kuronekosgift:fluid/hydrogenated_heavy_distillate_oil_hot_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "hydrocracked_heavy_distillate_oil",
           "density": 1000,
@@ -272,15 +207,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrocracked_heavy_distillate_oil_still",
-          "texFlowing": "kuronekosgift:blocks/hydrocracked_heavy_distillate_oil_flow",
+          "texStill": "kuronekosgift:fluid/hydrocracked_heavy_distillate_oil_still",
+          "texFlowing": "kuronekosgift:fluid/hydrocracked_heavy_distillate_oil_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "naphtha",
           "density": 1000,
@@ -292,15 +222,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/naphtha_still",
-          "texFlowing": "kuronekosgift:blocks/naphtha_flow",
+          "texStill": "kuronekosgift:fluid/naphtha_still",
+          "texFlowing": "kuronekosgift:fluid/naphtha_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "naphtha_hot",
           "density": 1000,
@@ -312,15 +237,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/naphtha_hot_still",
-          "texFlowing": "kuronekosgift:blocks/naphtha_hot_flow",
+          "texStill": "kuronekosgift:fluid/naphtha_hot_still",
+          "texFlowing": "kuronekosgift:fluid/naphtha_hot_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "hydrocracked_naphtha",
           "density": 1000,
@@ -332,15 +252,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrocracked_naphtha_still",
-          "texFlowing": "kuronekosgift:blocks/hydrocracked_naphtha_flow",
+          "texStill": "kuronekosgift:fluid/hydrocracked_naphtha_still",
+          "texFlowing": "kuronekosgift:fluid/hydrocracked_naphtha_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "pyrolysis_gas_hot",
           "density": -100,
@@ -352,15 +267,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/pyrolysis_gas_hot_still",
-          "texFlowing": "kuronekosgift:blocks/pyrolysis_gas_hot_flow",
+          "texStill": "kuronekosgift:fluid/pyrolysis_gas_hot_still",
+          "texFlowing": "kuronekosgift:fluid/pyrolysis_gas_hot_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "pyrolysis_gas",
           "density": -100,
@@ -372,15 +282,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/pyrolysis_gas_still",
-          "texFlowing": "kuronekosgift:blocks/pyrolysis_gas_flow",
+          "texStill": "kuronekosgift:fluid/pyrolysis_gas_still",
+          "texFlowing": "kuronekosgift:fluid/pyrolysis_gas_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "compressed_cracked_gas_i",
           "density": -80,
@@ -392,15 +297,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/compressed_cracked_gas_i_still",
-          "texFlowing": "kuronekosgift:blocks/compressed_cracked_gas_i_flow",
+          "texStill": "kuronekosgift:fluid/compressed_cracked_gas_i_still",
+          "texFlowing": "kuronekosgift:fluid/compressed_cracked_gas_i_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "compressed_cracked_gas_ii",
           "density": -60,
@@ -412,15 +312,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/compressed_cracked_gas_ii_still",
-          "texFlowing": "kuronekosgift:blocks/compressed_cracked_gas_ii_flow",
+          "texStill": "kuronekosgift:fluid/compressed_cracked_gas_ii_still",
+          "texFlowing": "kuronekosgift:fluid/compressed_cracked_gas_ii_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "compressed_cracked_gas_iii",
           "density": -40,
@@ -432,15 +327,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/compressed_cracked_gas_iii_still",
-          "texFlowing": "kuronekosgift:blocks/compressed_cracked_gas_iii_flow",
+          "texStill": "kuronekosgift:fluid/compressed_cracked_gas_iii_still",
+          "texFlowing": "kuronekosgift:fluid/compressed_cracked_gas_iii_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "compressed_cracked_gas_iv",
           "density": -20,
@@ -452,15 +342,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/compressed_cracked_gas_iv_still",
-          "texFlowing": "kuronekosgift:blocks/compressed_cracked_gas_iv_flow",
+          "texStill": "kuronekosgift:fluid/compressed_cracked_gas_iv_still",
+          "texFlowing": "kuronekosgift:fluid/compressed_cracked_gas_iv_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "compressed_cracked_gas_v",
           "density": -10,
@@ -472,15 +357,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/compressed_cracked_gas_v_still",
-          "texFlowing": "kuronekosgift:blocks/compressed_cracked_gas_v_flow",
+          "texStill": "kuronekosgift:fluid/compressed_cracked_gas_v_still",
+          "texFlowing": "kuronekosgift:fluid/compressed_cracked_gas_v_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "alkaline_washing_cracked_gas",
           "density": -100,
@@ -492,15 +372,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/alkaline_washing_cracked_gas_still",
-          "texFlowing": "kuronekosgift:blocks/alkaline_washing_cracked_gas_flow",
+          "texStill": "kuronekosgift:fluid/alkaline_washing_cracked_gas_still",
+          "texFlowing": "kuronekosgift:fluid/alkaline_washing_cracked_gas_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "hydrocracked_gas",
           "density": -100,
@@ -512,15 +387,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrocracked_gas_still",
-          "texFlowing": "kuronekosgift:blocks/hydrocracked_gas_flow",
+          "texStill": "kuronekosgift:fluid/hydrocracked_gas_still",
+          "texFlowing": "kuronekosgift:fluid/hydrocracked_gas_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "liquefied_cracked_gas",
           "density": 1000,
@@ -532,15 +402,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/liquefied_cracked_gas_still",
-          "texFlowing": "kuronekosgift:blocks/liquefied_cracked_gas_flow",
+          "texStill": "kuronekosgift:fluid/liquefied_cracked_gas_still",
+          "texFlowing": "kuronekosgift:fluid/liquefied_cracked_gas_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "ethane_ethylene_mixture",
           "density": -100,
@@ -552,15 +417,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/ethane_ethylene_mixture_still",
-          "texFlowing": "kuronekosgift:blocks/ethane_ethylene_mixture_flow",
+          "texStill": "kuronekosgift:fluid/ethane_ethylene_mixture_still",
+          "texFlowing": "kuronekosgift:fluid/ethane_ethylene_mixture_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "ethane",
           "density": -100,
@@ -572,15 +432,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/ethane_still",
-          "texFlowing": "kuronekosgift:blocks/ethane_flow",
+          "texStill": "kuronekosgift:fluid/ethane_still",
+          "texFlowing": "kuronekosgift:fluid/ethane_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "ethylene",
           "density": -100,
@@ -592,15 +447,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/ethylene_still",
-          "texFlowing": "kuronekosgift:blocks/ethylene_flow",
+          "texStill": "kuronekosgift:fluid/ethylene_still",
+          "texFlowing": "kuronekosgift:fluid/ethylene_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "mixed_slurry",
           "density": 1000,
@@ -612,15 +462,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/mixed_slurry_still",
-          "texFlowing": "kuronekosgift:blocks/mixed_slurry_flow",
+          "texStill": "kuronekosgift:fluid/mixed_slurry_still",
+          "texFlowing": "kuronekosgift:fluid/mixed_slurry_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "hydrogen_ethylene_mixture",
           "density": -100,
@@ -632,15 +477,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/hydrogen_ethylene_mixture_still",
-          "texFlowing": "kuronekosgift:blocks/hydrogen_ethylene_mixture_flow",
+          "texStill": "kuronekosgift:fluid/hydrogen_ethylene_mixture_still",
+          "texFlowing": "kuronekosgift:fluid/hydrogen_ethylene_mixture_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "flash_slurry",
           "density": -100,
@@ -652,15 +492,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/flash_slurry_still",
-          "texFlowing": "kuronekosgift:blocks/flash_slurry_flow",
+          "texStill": "kuronekosgift:fluid/flash_slurry_still",
+          "texFlowing": "kuronekosgift:fluid/flash_slurry_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "molten_polyethylene",
           "density": 1000,
@@ -672,15 +507,10 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/molten_polyethylene_still",
-          "texFlowing": "kuronekosgift:blocks/molten_polyethylene_flow",
+          "texStill": "kuronekosgift:fluid/molten_polyethylene_still",
+          "texFlowing": "kuronekosgift:fluid/molten_polyethylene_flow",
           "creativeTab": "kuronekosgift_tab"
-        }
-      ]
-
-    },
-    {"type": "block:fluid",
-      "entries": [
+        },
         {
           "id": "uranyl_nitrate",
           "density": 1000,
@@ -692,8 +522,68 @@
           "addUniversalBucket": true,
           "isOpaqueCube": false,
           "renderLayer": "translucent",
-          "texStill": "kuronekosgift:blocks/uranyl_nitrate_still",
-          "texFlowing": "kuronekosgift:blocks/uranyl_nitrate_flow",
+          "texStill": "kuronekosgift:fluid/uranyl_nitrate_still",
+          "texFlowing": "kuronekosgift:fluid/uranyl_nitrate_flow",
+          "creativeTab": "kuronekosgift_tab"
+        },
+        {
+          "id": "formation_fluid",
+          "density": 5000,
+          "temperature": 300,
+          "viscosity": 5000,
+          "flowLength": 8,
+          "isGaseous": false,
+          "canCreateSource":  false,
+          "addUniversalBucket": true,
+          "isOpaqueCube": false,
+          "renderLayer": "translucent",
+          "texStill": "kuronekosgift:fluid/formation_fluid_still",
+          "texFlowing": "kuronekosgift:fluid/formation_fluid_flow",
+          "creativeTab": "kuronekosgift_tab"
+        },
+        {
+          "id": "uranium_hexafluoride_gas",
+          "density": -100,
+          "temperature": 330,
+          "viscosity": 1000,
+          "flowLength": 8,
+          "isGaseous": true,
+          "canCreateSource":  false,
+          "addUniversalBucket": true,
+          "isOpaqueCube": false,
+          "renderLayer": "translucent",
+          "texStill": "kuronekosgift:fluid/uranium_hexafluoride_gas_still",
+          "texFlowing": "kuronekosgift:fluid/uranium_hexafluoride_gas_flow",
+          "creativeTab": "kuronekosgift_tab"
+        },
+        {
+          "id": "uranium_hexafluoride_gas_u235",
+          "density": -100,
+          "temperature": 330,
+          "viscosity": 1000,
+          "flowLength": 8,
+          "isGaseous": true,
+          "canCreateSource":  false,
+          "addUniversalBucket": true,
+          "isOpaqueCube": false,
+          "renderLayer": "translucent",
+          "texStill": "kuronekosgift:fluid/uranium_hexafluoride_gas_u235_still",
+          "texFlowing": "kuronekosgift:fluid/uranium_hexafluoride_gas_u235_flow",
+          "creativeTab": "kuronekosgift_tab"
+        },
+        {
+          "id": "uranium_hexafluoride_gas_u238",
+          "density": -100,
+          "temperature": 330,
+          "viscosity": 1000,
+          "flowLength": 8,
+          "isGaseous": true,
+          "canCreateSource":  false,
+          "addUniversalBucket": true,
+          "isOpaqueCube": false,
+          "renderLayer": "translucent",
+          "texStill": "kuronekosgift:fluid/uranium_hexafluoride_gas_u238_still",
+          "texFlowing": "kuronekosgift:fluid/uranium_hexafluoride_gas_u238_flow",
           "creativeTab": "kuronekosgift_tab"
         }
       ]

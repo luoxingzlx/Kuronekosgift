@@ -53,6 +53,9 @@ fluid.hydrogen_ethylene_mixture=Hydrogen Ethylene Mixture
 fluid.flash_slurry=Flash Slurry
 fluid.molten_polyethylene=Molten Polyethylene
 fluid.uranyl_nitrate=Uranyl Nitrate
-
+fluid.formation_fluid=Formation Fluid
+fluid.uranium_hexafluoride_gas=Uranium Hexafluoride Gas
+fluid.uranium_hexafluoride_gas_u235=Uranium Hexafluoride Gas(U235)
+fluid.uranium_hexafluoride_gas_u238=Uranium Hexafluoride Gas(U238)
 
 

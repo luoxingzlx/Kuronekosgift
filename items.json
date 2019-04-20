@@ -54,11 +54,6 @@
 					"creativeTab": "kuronekosgift_tab"
 				},
 				{
-					"id": "kuronekosgift:uranium_hexafluoride",
-					"model": "kuronekosgift:uranium_hexafluoride",
-					"creativeTab": "kuronekosgift_tab"
-				},
-				{
 					"id": "kuronekosgift:uranium_trioxide",
 					"model": "kuronekosgift:uranium_trioxide",
 					"creativeTab": "kuronekosgift_tab"
@@ -67,12 +62,7 @@
 					"id": "kuronekosgift:hairy_ball_ingot",
 					"model": "kuronekosgift:hairy_ball_ingot",
 					"creativeTab": "kuronekosgift_tab"
-				}
-			]
-		},
-		{
-			"type": "item:simple",
-			"entries":[
+				},
 				{
 					"id": "kuronekosgift:hair_band",
 					"model": "kuronekosgift:hair_band",
