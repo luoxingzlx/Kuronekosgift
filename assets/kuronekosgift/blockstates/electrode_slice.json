@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "kuronekosgift:electrode_slice", "y": 0},
+    "facing=east": {"model": "kuronekosgift:electrode_slice", "y": 90},
+    "facing=south": {"model": "kuronekosgift:electrode_slice", "y": 180},
+    "facing=west": {"model": "kuronekosgift:electrode_slice", "y": 270}
+  }
+}

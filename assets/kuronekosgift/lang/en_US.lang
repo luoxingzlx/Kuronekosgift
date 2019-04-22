@@ -15,8 +15,9 @@ item.kuronekosgift.kuronekosgift:uranium_trioxide.name=Uranium Trioxide
 item.kuronekosgift.kuronekosgift:hair_band.name=Kuroneko's Hair Band
 
 
-tile.kuronekosgift.kuronekosgift:hairy_ball_block.name=Hairy Ball Block
 
+tile.kuronekosgift.kuronekosgift:hairy_ball_block.name=Hairy Ball Block
+tile.kuronekosgift.kuronekosgift:electrode_slice.name=Electrode Slice
 
 fluid.empowered_pink_slime=Empowered Pink Slime
 fluid.demulsifier=Demulsifier

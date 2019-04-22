@@ -20,6 +20,29 @@
             "creativeTab": "kuronekosgift_tab"
         }
       ]
-    }
-  ]
-}
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "kuronekosgift:electrode_slice",
+          "hardness": 10,
+          "resistance:": 6000,
+          "soundType": "metal",
+          "light": 0,
+          "flammability": 0,
+          "fireSpreadSpeed": 0,
+          "isFireSource": false,
+          "isWood": false,
+          "isOpaqueCube": false,
+          "renderLayer": "solid",
+          "harvestTool": "pickaxe",
+          "harvestLevel": 3,
+          "pathNodeType": "blocked",
+          "itemModel": "kuronekosgift:electrode_slice",
+          "creativeTab": "kuronekosgift_tab"
+          }
+        ]
+      }
+    ]
+  }
